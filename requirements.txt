@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+pydantic
+sqlmodel
+python-jose
+passlib[bcrypt]
+aiosqlite
